@@ -1,0 +1,4 @@
+pple 5 banana
+car 8 plane
+dog 3 cat
+house 10 tree
